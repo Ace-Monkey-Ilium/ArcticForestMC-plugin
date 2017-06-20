@@ -55,3 +55,22 @@ https://mods.curse.com/bukkit-plugins/minecraft/votifier
 https://mods.curse.com/bukkit-plugins/minecraft/scoreboardstats
 
 https://mods.curse.com/bukkit-plugins/minecraft/buycraft 
+
+https://mods.curse.com/bukkit-plugins/minecraft/nocheatplus
+
+https://www.spigotmc.org/resources/⌾-miniaturepets-⌾-custom-mobs-great-for-eula.23991/
+
+https://dev.bukkit.org/projects/chestshop
+
+https://www.spigotmc.org/resources/helpgui.33245/
+
+https://www.spigotmc.org/resources/colorcodes.20703/
+
+https://www.spigotmc.org/resources/discordsrv.18494/
+
+https://www.spigotmc.org/resources/heads-2550-heads-add-your-own.13402/
+
+https://dev.bukkit.org/projects/openinv
+
+https://www.spigotmc.org/resources/skinsrestorer.2124/
+
