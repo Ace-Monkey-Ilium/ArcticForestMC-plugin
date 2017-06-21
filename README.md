@@ -83,3 +83,11 @@ https://www.spigotmc.org/resources/guistats.42583/
 https://www.spigotmc.org/resources/chair.2588/
 
 https://www.spigotmc.org/resources/friends.208/
+
+https://www.spigotmc.org/resources/cratesplus-free-crates-plugin-1-7-1-12.5018/
+
+https://www.spigotmc.org/resources/advanced-achievements.6239/
+
+https://www.spigotmc.org/resources/auctions.571/
+
+https://www.spigotmc.org/resources/clickharvest-harvest-replant-crops-on-right-click.42603/
