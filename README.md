@@ -74,3 +74,12 @@ https://dev.bukkit.org/projects/openinv
 
 https://www.spigotmc.org/resources/skinsrestorer.2124/
 
+https://www.spigotmc.org/resources/trollcommands.24237/
+
+https://www.spigotmc.org/resources/connectfour-for-gamebox.40134/
+
+https://www.spigotmc.org/resources/guistats.42583/
+
+https://www.spigotmc.org/resources/chair.2588/
+
+https://www.spigotmc.org/resources/friends.208/
